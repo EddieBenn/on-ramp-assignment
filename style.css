@@ -1,5 +1,5 @@
 body {
-    background: url('./starter-code/images/img.png');
+    background: url('./img.png');
     /* background-color: white; */
     background-repeat: no-repeat;
     background-size:cover;
@@ -78,6 +78,5 @@ form {
     border-style:solid;
     border-radius: 10px;
     font-size: 20px;
-    font-family: 'Courier Prime';
     font-family: 'Courier Prime';
 }
